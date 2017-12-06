@@ -38,7 +38,7 @@ body {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 15px 25px;
+    padding: 50px 25px;
     text-decoration: none;
 }
 /* Change color on hover */
